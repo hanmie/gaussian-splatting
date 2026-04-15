@@ -6,3 +6,13 @@ diff_rasterization/diff_rast.egg-info
 diff_rasterization/dist
 tensorboard_3d
 screenshotsassets/tandt_db.zip
+
+# 训练数据和模型文件
+assets/chart/
+assets/tandt_db.zip
+output/
+*.ply
+*.pth
+*.pt
+*.ckpt
+
